@@ -1,0 +1,1 @@
+from .educationquestionnaire_rulegroup import EducationQuestionnaireRuleGroup
